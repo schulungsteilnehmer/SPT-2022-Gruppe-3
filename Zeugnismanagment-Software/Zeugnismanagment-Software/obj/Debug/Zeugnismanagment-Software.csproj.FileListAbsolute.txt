@@ -1,6 +1,0 @@
-C:\Users\schulung.SCHULUNGNB-03\Documents\SharpDevelop Projects\Zeugnismanagment-Software\Zeugnismanagment-Software\bin\Debug\Zeugnismanagment-Software.exe.config
-C:\Users\schulung.SCHULUNGNB-03\Documents\SharpDevelop Projects\Zeugnismanagment-Software\Zeugnismanagment-Software\bin\Debug\Zeugnismanagment-Software.exe
-C:\Users\schulung.SCHULUNGNB-03\Documents\SharpDevelop Projects\Zeugnismanagment-Software\Zeugnismanagment-Software\bin\Debug\Zeugnismanagment-Software.pdb
-C:\Users\schulung.SCHULUNGNB-03\Documents\SharpDevelop Projects\Zeugnismanagment-Software\Zeugnismanagment-Software\obj\Debug\Zeugnismanagment-Software.csprojResolveAssemblyReference.cache
-C:\Users\schulung.SCHULUNGNB-03\Documents\SharpDevelop Projects\Zeugnismanagment-Software\Zeugnismanagment-Software\obj\Debug\Zeugnismanagment-Software.exe
-C:\Users\schulung.SCHULUNGNB-03\Documents\SharpDevelop Projects\Zeugnismanagment-Software\Zeugnismanagment-Software\obj\Debug\Zeugnismanagment-Software.pdb
